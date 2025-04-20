@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HiBroXD9
+- 👋 Hi, I’m @Szollosi Patrik
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning base
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate on anything Web page building
 - 📫 How to reach me: just send a message
 
 <!---  
